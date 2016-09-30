@@ -4,8 +4,6 @@
 [![License][mit-badge]][mit-url]
 [![Slack][slack-badge]][slack-url]
 
-CDNS is a DNS resolver.
-
 ## Community
 
 [![Slack][slack-image]][slack-url]
